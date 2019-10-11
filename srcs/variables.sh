@@ -6,7 +6,7 @@
 #    By: jtoty <jtoty@student.42.fr>                +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2017/01/23 18:27:13 by jtoty             #+#    #+#              #
-#    Updated: 2019/10/11 17:12:03 by alavaud     ###    #+. /#+    ###.fr      #
+#    Updated: 2019/10/11 17:22:21 by alavaud     ###    #+. /#+    ###.fr      #
 #                                                                              #
 # **************************************************************************** #
 
@@ -59,7 +59,7 @@ Part2_func_activation=('0' '0' '0' '0' '0' \
 '0' '0' '0' '0' '0' \
 '0' '0' '0' '0')
 
-Part2_func=('ft_strmapi.c' 'ft_substr.c' 'ft_strjoin.c' 'ft_strtrim.c' 'ft_split.c' \
+Part2_func=('ft_strmapi.c' 'ft_substr.c' 'ft_strjoin.c' 'ft_split.c' \
 'ft_itoa.c' 'ft_putchar_fd.c' 'ft_putstr_fd.c' 'ft_putendl_fd.c' 'ft_putnbr_fd.c')
 
 ###################################################
